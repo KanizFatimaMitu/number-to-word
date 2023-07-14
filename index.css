@@ -5,8 +5,21 @@ body {
     margin-top: 300px;
 }
 
+input {
+    padding: 15px;
+    font-size: large;
+    width: 450px;
+}
+
 button {
     background-color: brown;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size:medium;
+    font-weight: bold;
+}
+
+h4 {
+    font-size:x-large;
 }
