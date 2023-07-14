@@ -4,3 +4,9 @@ body {
     color: aliceblue;
     margin-top: 300px;
 }
+
+button {
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;
+}
